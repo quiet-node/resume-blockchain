@@ -1,1 +1,1 @@
-Visit https://logann131.github.io/resume-blockchain for my latest Blockchain resume
+Visit https://quiet-node.github.io/resume-blockchain/ for my latest Blockchain resume
